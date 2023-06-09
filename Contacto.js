@@ -3,6 +3,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
     btnEnviar.addEventListener('click', mostrarMensaje);
 
     function mostrarMensaje() {
-        alert("Datos enviados correctamente");
+        alert("Datos enviados");
     }
 });
