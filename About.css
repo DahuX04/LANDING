@@ -1,8 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto+Condensed:wght@400;700&display=swap');
-/*
-
-*/
 
 *{
     box-sizing: border-box;
@@ -31,7 +28,6 @@ body{
     min-height: 100vh;
     align-items:center;
 }
-
 .menu{
     position: absolute;
     top: 0;
@@ -46,6 +42,7 @@ body{
     color: #FFFFFF;
     font-size: 25px;
     font-weight: bold;
+    /*align-self: baseline;*/
 }
 
 .menu .navbar ul li{

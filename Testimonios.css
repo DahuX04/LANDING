@@ -175,8 +175,6 @@ display: none;
     position: absolute;
     right: 718px;
     bottom: 70px;
-
-    
 }
 
 .swiper-button-prev {
@@ -185,8 +183,6 @@ display: none;
     border: 2px solid #FF8000;
     border-radius: 50%;
     font-size: 15px;
-    
-    
 }
 
 .swiper-button-next {
@@ -195,8 +191,6 @@ display: none;
     border: 2px solid #FF8000;
     border-radius: 50%;
     font-size: 15px;
-    
-    
 }
 
 .swiper-button-prev::after {
@@ -266,6 +260,4 @@ display: none;
     .rows {
         display: none;
     }
-
-
 } 
