@@ -42,6 +42,7 @@ body{
     color: #FFFFFF;
     font-size: 25px;
     font-weight: bold;
+    /*align-self: baseline;*/
 }
 
 .menu .navbar ul li{
