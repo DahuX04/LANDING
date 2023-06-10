@@ -1,16 +1,9 @@
-# LANDING
+# LANDING PAGE YOUR CONFORT
+# El landing page fue realizado por los siguiente integrantes:
+Guzmán Guimaraes, Jean Pierre - U20211B277
+Valverde Cora, Piero Salvador - U202124051
+Fabian Puente, Ronaldo - U20201B193
+Perez Mendoza, Milosch Marko - U202022357
+Siancas Retegui, Luis Alberto - U20211G156
 
-<<<<<<< HEAD
-# hola ayuda no se hace commit
-
-hi
-=======
-# El landin fue realizado por los siguiente integrantes:
-PIERO VALVERDE CORA
-UIS SIANCAS REATEGUI
-MARKO MILOSH
-RONAL FABIAN
-JEAN PIER NOSE SU APELLIDO
-gaaaaaaa
-# 
->>>>>>> 09de56ab698463716d25575922d54c47cac01ddd
+Repositorio para el control de version del Landing Page de YourConfort. Enlace: https://dahux04.github.io/LANDING/ 
